@@ -1,0 +1,13 @@
+* {
+  color: white;
+}
+
+h1,
+h2 {
+  font-family: "Merriweather", serif;
+}
+
+date,
+time {
+  font-family: "Orbitron", sans-serif;
+}
